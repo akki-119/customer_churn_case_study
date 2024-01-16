@@ -1,4 +1,4 @@
-# customer_churn_case_study
+# Customer Churn
 
 ## Work in progress
 
