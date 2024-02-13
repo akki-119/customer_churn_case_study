@@ -5,12 +5,6 @@
 Interact with the final (data story) dashboard here: [Tableau Public dashboard](https://public.tableau.com/views/TelcoChurnandLTVAnalysis_17078507108480/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 (Interact in full screen for better view.)
 
-_### Pending Work
-  - Workflow details
-  - DB structure
-  - Code Documentation
-  - Tableau Visualization_
-
 
 ### Problem Statement:
 
