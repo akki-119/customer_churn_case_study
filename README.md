@@ -1,4 +1,4 @@
-# Customer Churn
+# Telecom - Customer Churn
 
 ### Tools Used: Python, SQLite, Jupyter Notebook, Tableau
 
